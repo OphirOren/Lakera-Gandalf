@@ -1,4 +1,4 @@
-# Lakera-Gandalf - Under Construction Document
+# Lakera Gandalf Challenges 
 
 Gandalf is the password protector by Lakera AI.<br>
 This is a CTF Challenge by Lakera with a purpose to get a password from a protector with prompt injection.<br>
